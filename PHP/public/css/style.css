@@ -1,0 +1,301 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+.container-fluid{
+	padding: 0 !important;
+}
+.headerHome{
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,ad0747+83 */
+background: #000000; /* Old browsers */
+background: -moz-linear-gradient(left, #000000 0%, #ad0747 83%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #000000 0%,#ad0747 83%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #000000 0%,#ad0747 83%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#ad0747',GradientType=1 ); /* IE6-9 */
+	height: 148px;
+}
+.container{
+	position: relative;
+}
+.btnHeader{
+	position: absolute;
+	right: 0;
+	top: 10px; 
+}
+.headerBemVindo{
+	position: absolute;
+    right: 127px;
+    top: 20px;
+    color: #fff;
+}
+.headerBemVindo h2, .headerBemVindo h3{
+	display: inline-block;
+	font-size: 16px; 
+}
+.headerBemVindo h3 > strong{ 
+	cursor: pointer;
+	text-decoration: underline;
+}
+.btnHeader a{
+	color: #fff !important;
+	font-weight: bold;
+    height: 41px;
+    width: 174px;
+    border: 1px solid #fff;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    display: inline-block;
+    text-align: center;
+    padding: 8px 0;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left: 9px;
+}
+.btnHeader a:focus, .btnHeader a:hover, .btnHeader a:visited{
+	color: #fff !important;
+	border: 1px solid #fff;
+}
+.btnHeader a:hover{
+	background: #fff;
+	color: #AD0747 !important;
+}
+.logo{
+	position: relative;
+	top: 41px;
+    left: 15px;
+}
+.logo img{
+	width: 295px;
+}
+.barDivider .container{
+	height: 60px;
+}
+.yesLogin, .noLogin{
+	display: none;
+}
+.menuHeader{
+	height: 100%;
+}
+.menuHeader a{
+    display: inline-block;
+    color: #fff;
+    font-size: 25px;
+    text-decoration: none;
+    height: 100%;
+    text-align: center;
+    padding: 15px 15px 0 15px;
+}
+.menuHeader a.ativo{
+	border-bottom: 8px solid #AD0747;
+}
+.comentarios > .formCometario .input-group{
+	width: 100%;
+	height: 50px;
+	margin-bottom: 10px; 
+}
+
+#myComentarios{
+	width: 100%;
+	position: relative;
+	margin: 18px 0;
+}
+#myComentarios > div {
+	overflow: hidden;
+	box-sizing: border-box;
+    padding: 10px;
+    background: #eee;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 2px #999;
+    -moz-box-shadow: 0 0 2px #999;
+    box-shadow: 0 0 2px #999;
+}
+#myComentarios > div > p{
+    width: 100%;
+    display: inline-block;
+    overflow-x: hidden;
+}
+.btnEditarExcluir{
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    background: #ff317c;
+    top: 0;
+    left: 0;
+    display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	align-items: center;
+	-webkit-justify-content: center;
+	justify-content: center;
+}
+#modalFormEditarComentario .decricaoComentario{
+	width: 100%;
+}
+#modalFormEditarComentario textarea{
+	width: 100%;
+	height: 200px;
+}
+.btnEditarExcluir button{
+	margin: 10px;
+}
+#myComentarios .nomeAutor{
+    font-weight: bold;
+    float: left;
+    width: 156px;
+}
+.dataComentario{
+	font-weight: bold;
+	float: right;
+}
+.fotoUsuerComentario{
+	width: 50px;
+}
+.descricaoComentario{
+	text-align: justify;
+}
+
+#myComentarios .itemComentario::after{
+	clear: both;
+}
+.itemComentario .ComentarioL{
+	float: left;
+	margin-right:10px; 
+}
+.itemComentario .ComentarioR{
+	float: left;
+	width: 280px;
+	margin-bottom: 10px; 
+}
+
+#fotoUser h3{
+	display: none;
+    position: absolute;
+    top: 81px;
+    z-index: 100;
+    background: #000;
+    width: 100%;
+    height: 35px;
+    text-align: center;
+    line-height: 31px;
+}
+#fotoUser{
+	width: 177px;
+	margin: 0 auto;
+	cursor: pointer;
+	position: relative;
+}
+#fotoUser img{
+	width: 100%;
+}
+#formLogin{
+	display: none;
+    position: absolute;
+    right: 0;
+    top: 67px;
+	width: 500px;
+	z-index: 100;
+}
+.modal-title{
+	font-size: 18px;
+}
+.formstyle1{
+	color: #fff;
+	background: #691934;
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 2px #ff317c;
+    -moz-box-shadow: 0 0 2px #ff317c;
+    box-shadow: 0 0 2px #ff317c;
+}
+.modal-footer button[type="submit"], #formLogin button[type="submit"]{
+	float: right;
+    height: 44px;
+    width: 100px;
+}
+.input-group{
+	margin-top: 16px;
+}
+.input-group span{
+	font-weight: bold;
+	background: #ff317c !important;
+    border: none !important; 
+    color: #fff !important;
+}
+#modalMsg .modal-header {
+	margin-bottom: 16px;
+}
+.modal-header .close{
+	background: #fff;
+	color: #ff317c !important;
+	font-size: 25px; 
+    opacity: 1;
+    width: 31px;
+}
+.modal-header .close:hover{
+	background: #fff;
+	color: #ff317c !important;
+	font-weight: bold;
+	opacity: 0.7;
+
+}
+#mascara{
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	display: none;
+	background: #691934;
+	z-index: 99;
+	opacity: 0.4;
+}
+.ocultar{
+	display: none;
+}

@@ -1,0 +1,1084 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"e",
+				"empty"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"j",
+				"json_encode"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"FU",
+				"function"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"C",
+				"Controller"
+			],
+			[
+				"Con",
+				"Controllers"
+			],
+			[
+				"atu",
+				"atulizarBairros"
+			],
+			[
+				"boo",
+				"boolClasseBairros"
+			],
+			[
+				"id",
+				"idform"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"ht",
+				"htmlBairros"
+			],
+			[
+				"de",
+				"descricao"
+			],
+			[
+				"bai",
+				"bairros"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ref",
+				"referencia"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"m",
+				"multi"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pa",
+				"pattern	Attr"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"lo",
+				"local"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"des",
+				"deslocamento"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"stye",
+				"style	<style>"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"ti",
+				"title	<title>"
+			],
+			[
+				"php",
+				"phpinfo"
+			],
+			[
+				"pro",
+				"profissao"
+			],
+			[
+				"mod",
+				"modulo"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"char",
+				"charset"
+			],
+			[
+				"p",
+				"Python"
+			],
+			[
+				"S",
+				"SOA"
+			],
+			[
+				"Data",
+				"DataView"
+			],
+			[
+				"manipula",
+				"Manipulação"
+			],
+			[
+				"Co",
+				"Copy"
+			],
+			[
+				"data",
+				"DataSet"
+			],
+			[
+				"cl",
+				"classe"
+			],
+			[
+				"ob",
+				"objeto"
+			],
+			[
+				"Da",
+				"DataSet"
+			],
+			[
+				"ta",
+				"tabela"
+			],
+			[
+				"Re",
+				"Restrições"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"str",
+				"stringHtml"
+			],
+			[
+				"a",
+				"a	<a>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PHP/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 555,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHP/app/Http/Controllers/HomeController.php",
+			"settings":
+			{
+				"buffer_size": 1811,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHP/resources/views/home/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"line_ending": "Windows",
+				"name": "index.blade.php"
+			}
+		},
+		{
+			"file": "PHP/app/Usuario.php",
+			"settings":
+			{
+				"buffer_size": 513,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHP/database/migrations/2014_10_12_000000_create_usuarios_table.php",
+			"settings":
+			{
+				"buffer_size": 815,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHP/database/seeds/DatabaseSeeder.php",
+			"settings":
+			{
+				"buffer_size": 241,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PHP/database/seeds/UsuariosTableSeeder.php",
+			"settings":
+			{
+				"buffer_size": 373,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projetos/php/betalabs",
+		"/D/Projetos/php/betalabs/PHP",
+		"/D/Projetos/php/betalabs/PHP/app",
+		"/D/Projetos/php/betalabs/PHP/app/Http",
+		"/D/Projetos/php/betalabs/PHP/app/Http/Controllers",
+		"/D/Projetos/php/betalabs/PHP/database",
+		"/D/Projetos/php/betalabs/PHP/database/migrations"
+	],
+	"file_history":
+	[
+		"/D/Projetos/php/betalabs/PHP/resources/views/templates/template.blade.php",
+		"/D/Projetos/php/betalabs/PHP/config/auth.php",
+		"/D/Projetos/php/betalabs/PHP/app/Http/Controllers/Auth/LoginController.php",
+		"/D/Projetos/php/betalabs/betalabs.sublime-project",
+		"/D/Projetos/php/betalabs/PHP/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php",
+		"/D/Projetos/php/betalabs/PHP/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php",
+		"/C/Users/Thiag/AppData/Roaming/Sublime Text 3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/D/Projetos/php/betalabs/PHP/app/Http/Controllers/Auth/RegisterController.php",
+		"/D/EstudoTeste/php/laravel/laravel5.3/app/Http/Controllers/Site/Site1Controller.php",
+		"/D/EstudoTeste/php/laravel/laravel5.3/app/Http/Controllers/SiteController.php",
+		"/D/EstudoTeste/php/laravel/laravel5.3/.env",
+		"/D/EstudoTeste/php/laravel/laravel5.3/config/app.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/imoveis/index.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/simule.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/header.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/facil.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/footer.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/busca.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/config/ini.ini",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/facil.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/detalhesImovel.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/header.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/contato/index.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/index/index.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/rede.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/style.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/imoveis/detalhe.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/favoritos.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/imoveis/favoritos.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/encontre.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/quero.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/contato/trabalheconosco.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/participe.php",
+		"/C/Users/Thiag/Desktop/pneu.txt",
+		"/D/EstudoTeste/git/Git.txt",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/js/script.js",
+		"/C/Apache24/logs/error.log",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/filtro.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/quero.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/servicos/segfianca.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/segFianca.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/index.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/bootstrap.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/faleConosco.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/localizacao/index.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/footer.css",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/app/modules/front/views/scripts/quemsomos/index.php",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/js/detail_property_maps.js",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/js/jquery.jcarousel.min.js",
+		"/C/Users/Thiag/Desktop/teste/ed-lea-jquery-collagePlus-2085c67/examples/example.html",
+		"/C/Apache24/htdocs/sigy/pacheco_zend/css/bootstrap.min.css.map",
+		"/C/Apache24/htdocs/pacheco_zend/bootstrap.php",
+		"/D/EstudoTeste/arquivo.txt",
+		"/C/Users/Thiag/OneDrive/Currículo/apinfo.html",
+		"/C/Users/Thiag/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.log",
+		"/C/php/log/xdebug/xdebug.log",
+		"/C/Users/Thiag/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Thiag/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.expressions",
+		"/C/Users/Thiag/AppData/Roaming/Sublime Text 3/Packages/User/Xdebug.breakpoints",
+		"/C/php/php.ini",
+		"/D/EstudoTeste/php/zend/zend.sublime-project",
+		"/C/Apache24/conf/extra/academia.dev.conf",
+		"/C/Apache24/conf/extra/wordpress.dev.conf",
+		"/C/Users/Thiag/Desktop/index.html",
+		"/C/Users/Thiag/Desktop/init.js",
+		"/C/Windows/System32/npm-debug.log",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/arquivos/index.html",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/aula01.js",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/aula04.js",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/aula03.js",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/aula02.js",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/arquivos/contatos.html",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/arquivos/logs.txt",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/arquivos/clubes.txt",
+		"/D/EstudoTeste/nodejs/codigos/aula-node/arquivos/novo.txt",
+		"/D/EstudoTeste/nodejs/codigos/aula01.js",
+		"/D/EstudoTeste/nodejs/codigos/app.js",
+		"/D/4lis/empregos.pet/wp-config.php",
+		"/D/4lis/empregos.pet/wp-content/themes/careerswp/style.css",
+		"/D/4lis/empregos.pet/wp-content/themes/careerswp/page-home.php",
+		"/D/EstudoTeste/git/testeGit/lista.txt",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/EstudoTeste/C#/c#.txt",
+		"/D/4lis/banco_empregos.pet/empregos_2016/empregos_2016_wp_users.sql",
+		"/D/4lis/empregos.pet/wp-content/themes/careerswp/languages/careers.mo",
+		"/D/EstudoTeste/wordpress/wordpress/wp-content/themes/curso-wordpress/style.css",
+		"/D/EstudoTeste/wordpress/wordpress/wp-content/themes/curso-wordpress/index.php",
+		"/D/EstudoTeste/wordpress/wordpress/wp-content/themes/cursoWordPress/index.php",
+		"/D/EstudoTeste/C++/C++.txt",
+		"/C/Users/Thiag/Desktop/mysql-5.7.15-winx64/README",
+		"/D/Projetos/php/academia/app/Http/Controllers/Controller.php",
+		"/C/Apache24/conf/httpd.conf",
+		"/C/Apache24/conf/extra/httpd-vhosts.conf",
+		"/C/Apache24/conf/extra/httpd-default.conf",
+		"/C/Apache24/logs/install.log",
+		"/C/Apache24/logs/dummy-host2.example.com-access.log",
+		"/C/Apache24/logs/dummy-host2.example.com-error.log",
+		"/C/Apache24/htdocs/index.html",
+		"/C/Apache24/htdocs/info.php",
+		"/C/Users/Thiag/Downloads/httpd-2.4.23-win64-VC14/ReadMe.txt"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"users",
+			"status=VENDA",
+			"status=ALUGUEL",
+			"status=VENDA",
+			"busca",
+			"carac",
+			"print",
+			"hide",
+			"selectpicker busca-detalhada",
+			"status",
+			"get",
+			".st",
+			"st",
+			"selectpicker",
+			"teste",
+			"Bairro",
+			"listaBairro",
+			"tel",
+			"myModalMsg",
+			"_server",
+			"/id",
+			"id",
+			"montaDropDownMultiselect",
+			"select",
+			"montaDropDownMultiselect",
+			"glyphicon-triangle-bottom",
+			"montaDropDownMultiselect",
+			"myParam",
+			"montaDropDownMultiselect",
+			"filtro",
+			"visitar",
+			"proposta",
+			"favoritos",
+			"if",
+			"btnCompareDLS",
+			"767",
+			".infoDls",
+			"{",
+			"titleinfoDls",
+			"listaInfoDls",
+			"titleMaps",
+			"titleM",
+			"mapsImovel",
+			"btn-fav-comparar-detalhes",
+			"proposta",
+			"volta",
+			"mapsImovel",
+			"mapa",
+			"descri",
+			"filtro",
+			"col-md-5",
+			"col-md-7",
+			"col-md-8",
+			"col-md-6",
+			"favorito",
+			"numPagImoveis",
+			"btn_aluguelGar.gif",
+			"nossa.",
+			"nossa.png",
+			"lang",
+			"<li>",
+			"titleVend ",
+			"767",
+			".btnImovelDls span",
+			"logotipo",
+			"anos",
+			"logo",
+			"ligueMob",
+			"LigueMob",
+			"ligueMob",
+			"firstChild",
+			"lat",
+			"bootstrap",
+			"backPai",
+			"back",
+			"nossaEmp",
+			"nonossaEmp",
+			"*",
+			"estilo",
+			"@media print and (min-width: 992px )",
+			"992",
+			"1200",
+			"pagina",
+			"map",
+			"99",
+			"12000",
+			"place",
+			"pla",
+			"place",
+			"log",
+			"output_buffering",
+			"implicit_flush",
+			"output_buffering",
+			"implicit_flush",
+			"js",
+			"success",
+			"line",
+			"\\",
+			"mod_log_config",
+			"loadconfig",
+			"httpd-vhosts.conf",
+			"Options Indexes",
+			"<Directory>",
+			"LoadModule rewrite_module",
+			"session.save_path",
+			"short_open_tag",
+			"rewrite_module",
+			"\\",
+			"virtual",
+			"NameVirtual",
+			"servername",
+			"servename",
+			"Listen",
+			"servernam",
+			"servename",
+			"pgsql",
+			"postgre",
+			"postgresql",
+			"email",
+			"fire",
+			"php_zip",
+			"php_mysql"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"usuario",
+			"status=Venda",
+			"status=Aluguel",
+			"status=Venda",
+			"selectpicker",
+			"col-sm-5 col-md-5",
+			"col-sm-7 col-md-7",
+			"col-sm-6 col-md-6",
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PHP/routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 555,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								554,
+								554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PHP/app/Http/Controllers/HomeController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1802,
+								1802
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "PHP/resources/views/home/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								662,
+								680
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index.blade.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "PHP/app/Usuario.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 513,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22,
+								22
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 88.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "PHP/database/migrations/2014_10_12_000000_create_usuarios_table.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 815,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								504
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "PHP/database/seeds/DatabaseSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								192,
+								232
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "PHP/database/seeds/UsuariosTableSeeder.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								331,
+								331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 71.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "betalabs.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 6
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 7
+				},
+				"21":
+				{
+					"group": 0,
+					"index": 8
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"23":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"50":
+				{
+					"group": 0,
+					"index": 9
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 360.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
