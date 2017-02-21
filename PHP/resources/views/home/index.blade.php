@@ -1,4 +1,4 @@
-@extends('templates.template')
+@extends('layouts.main')
 
 @section('content')
 	<div id="mascara"></div>
@@ -12,6 +12,14 @@
 					<div class="headerBemVindo yesLogin">
 						<h2></h2>
 						<h3 data-toggle="modal" data-target="#modalFormEditar"> - <strong>Meus Dados</strong></h3>
+						<a href="{{ route('logout') }}"
+                            onclick="event.preventDefault();
+                                     document.getElementById('logout-form').submit();logout();">
+                            Sair
+                        </a>
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                            {{ csrf_field() }}
+                        </form>
 					</div>
 
 					<div class="btnHeader noLogin">
@@ -89,7 +97,7 @@
 			    	</div>
 				@empty
 			    	<div class="itemComentario">
-			    		<p>Ainda não temos nenhum comentário.</p>
+			    		<p>Não temos nenhum comentário.</p>
 			    	</div>
 				@endforelse
 		    </div>

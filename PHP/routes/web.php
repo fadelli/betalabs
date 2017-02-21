@@ -34,11 +34,14 @@ Route::post('/editar/comentario', 'HomeController@editarComentario');
 
 
 //route do admin
-
-Route::group(['prefix' => 'admin','namespace' => 'Admin', 'middleware' => 'auth'], function () {
-	// Controllers Within The "App\Http\Controllers\Admin" Namespace
-	Route::get('/', 'HomeController@index');
-	
+Route::group(['prefix' => 'admin', 'middleware' => ['auth', 'can:auth'], 'namespace' => 'Admin'], function(){
+	Route::get('/', ['uses' => 'HomeController@index', 'role' => 'Admin_Sistema'])->name('admin');
+	Route::get('/excluir/comentario/{id}', ['uses' => 'HomeController@excluirComentario', 'role' => 'Admin_Sistema']);
+	Route::get('/excluir/todos/comentarios', ['uses' => 'HomeController@excluirTodosComentarios', 'role' => 'Admin_Sistema']);
 });
+
+
+
+Auth::routes();
 
 

@@ -17,7 +17,6 @@ class HomeController extends Controller
 	private $user;
 	private  $comentarios;
 	public function __construct(Usuario $user, Comentario $comentarios){
-		session_start();
 		$this->user = $user;
 		$this->comentarios = $comentarios;
 	}

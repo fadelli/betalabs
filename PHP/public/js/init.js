@@ -23,8 +23,10 @@ function getCookie(name){
 		return null;
 }
 function eraseCookie(name){ 
-	setCookie(name,-1); // deletando o cookie encontrado a partir do mostraCookie
+	setCookie(name,"" ,-1); // deletando o cookie encontrado a partir do mostraCookie
 }
+
+
 
 function queryObj() {
     var result = {}, keyValuePairs = location.search.slice(1).split("&");
@@ -74,6 +76,15 @@ function listarComentarioId(id){
 	});
 }
 
+function logout(){
+
+	eraseCookie('betalabsUserId');
+	eraseCookie('betalabsUserNome');
+	eraseCookie('betalabsUserEmail');
+	eraseCookie('betalabsUserToken');
+	eraseCookie('betalabsUserFoto');
+
+}
 function addBtnEditarExcluirComentario(){
 	
 	idUserAtual = dadosUser.id;
@@ -86,8 +97,8 @@ function addBtnEditarExcluirComentario(){
 
 	$(".editarComentario").hover(function (){
 		html = '<div class="btnEditarExcluir">'
-		html+= '<button class="btn btn-default btnEditarComentario"><i class="glyphicon glyphicon-edit"> Editar</i></button>'
-		html+= '<button class="btn btn-default btnExcluirComentario"><i class="glyphicon glyphicon-remove"> Excluir</i></button>'
+		html+= '<button class="btn btn-default btnEditarComentario"><i class="glyphicon glyphicon-edit"></i> Editar</button>'
+		html+= '<button class="btn btn-default btnExcluirComentario"><i class="glyphicon glyphicon-remove"></i> Excluir</button>'
 		html+= '</>'
 		$(this).append(html);
 		$(".btnExcluirComentario").click(function(){
